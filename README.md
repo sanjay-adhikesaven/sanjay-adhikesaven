@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi! I'm Sanjay, an incoming senior at Foothill High School interested in Machine Learning and Artificial Intelligence. 
 
-[![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjay-adhikesaven)](https://github.com/anuraghazra/github-readme-stats)
+[![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjay-adhikesaven)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
 
 <!--
 **sanjay-adhikesaven/sanjay-adhikesaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
